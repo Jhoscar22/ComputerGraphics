@@ -6,4 +6,4 @@ Author: Oscar Valdés
 
 ### Polygon Transformations
 This canvas show some transformed hexagons
-![Watch the video](https://github.com/Jhoscar22/ComputerGraphics/blob/main/Processing/IncreasingSidesPolygons/README/app-recording.mp4?raw=true)
+![Watch the video](https://github.com/Jhoscar22/ComputerGraphics/blob/main/Processing/IncreasingSidesPolygons/README/app-recording.gif)

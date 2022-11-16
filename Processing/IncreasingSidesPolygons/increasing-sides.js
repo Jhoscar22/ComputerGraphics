@@ -1,6 +1,9 @@
 function setup() {
     createCanvas(640, 480);
     vertices = getVertices()
+    r = random(0, 255);
+    g = random(0, 255);
+    b = random(0, 255);
 }
 
 let x1, x2, y1, y2;
@@ -30,16 +33,23 @@ function getVertices() {
 
 }
 
+let r = 100;
+let g = 200;
+let b = 30;
+
 function draw() {
     background(100);
     strokeWeight(2);
-    fill(100, 200, 30);
+    fill(r, g, b);
     polygon(width / 2, height / 2);
 
 }
 
 function mousePressed() {
     vertices = getVertices();
+    r = random(0, 255);
+    g = random(0, 255);
+    b = random(0, 255);
 }
 
 function polygon(x, y) {

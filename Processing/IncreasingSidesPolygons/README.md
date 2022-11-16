@@ -4,6 +4,7 @@ Author: Oscar Valdés
 
 ## Challeges List
 
-### Polygon Transformations
-This canvas show some transformed hexagons
+### Polygon Increasing Sides
+This canvas show a polygon increasing its side count with every mouse click
+
 ![Watch the video](https://github.com/Jhoscar22/ComputerGraphics/blob/main/Processing/IncreasingSidesPolygons/README/app-recording.gif)

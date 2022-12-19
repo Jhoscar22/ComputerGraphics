@@ -2,9 +2,10 @@
 ######################
 .DS_Store
 .DS_Store?
+app.sSYM/
 
 # Other files #
 ######################
 .vscode/
 notCompile/
-app.sSYM/
+Untracked/

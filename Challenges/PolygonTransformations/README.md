@@ -1,9 +1,15 @@
-# Processing challenges
+# Challenge 5 - Polygon Transformations
 
-Author: Oscar Valdés
+## Instructions
 
-## Challeges List
+1. Clone the repository to your local machine.
+2. Open the file `index.html` in your browser.
 
-### Polygon Transformations
-This canvas show some transformed hexagons
-![Transformed Hexagons](https://github.com/Jhoscar22/ComputerGraphics/blob/main/Processing/PolygonTransformations/README/canvas.png?raw=true)
+## Description
+
+- **First**, the program has my own implementation of a couple of polygon transformation functions.
+- **Then**, the program draws some transformed polygons on a canvas to showcase the functions.
+
+## Preview
+
+![Preview](./images/preview.png)

@@ -67,6 +67,8 @@ async function frame(xp, yp, t, wait, mod) {
         }
         push();
         translate(p.x, p.y);
+        stroke(203, 64, 12);
+        fill(255, 87, 51);
         ellipse(0, 0, 40, 12);
         pop()
         return {xp: p.x, yp: p.y};
@@ -88,6 +90,8 @@ async function frame(xp, yp, t, wait, mod) {
         push();
         translate((xp + xc) / 2, (yp + yc) / 2);
         rotate(angle);
+        stroke(203, 64, 12);
+        fill(255, 87, 51);
         ellipse(0, 0, _width, 12);
         pop()
     }
@@ -106,7 +110,7 @@ async function draw() {
         let yp = v1.y;
         let _width;
         for (let t = stepSize; t <= 2.0001; t += stepSize) {
-            let r = await frame(xp, yp, t, false, stepSize*4);
+            let r = await frame(xp, yp, t, false, stepSize*2);
             xp = r.xp
             yp = r.yp
         }

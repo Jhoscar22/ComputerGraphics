@@ -22,4 +22,6 @@ Below are the 3 stages or scenes of the program:
 
 ## Preview
 
-![Preview](./images/preview.mp4)
+https://user-images.githubusercontent.com/68628848/208738556-676c1983-b3b8-4dea-943a-b38a0150652a.mp4
+
+

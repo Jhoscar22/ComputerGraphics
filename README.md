@@ -10,7 +10,7 @@ Some of the tasks were built upon previous tasks, so they are not all in separat
 
 **Task 2:** Display the points from <u>task 1</u> in a canvas.
 
-**[Task 3](/Challenges/LineInterpolation/):** Draw five lines using points in OpenGL, this task also counts as <u>tasks 1 & 2</u>.
+**[Task 3](/Challenges/LinearInterpolation/):** Draw five lines using points in OpenGL, this task also counts as <u>tasks 1 & 2</u>.
 
 **[Task 4](/Challenges/InteractivePolygons/):** Make a program that draws a solid pentagon. With every click, increase it side count and change its color randomly. After reaching twelve sides loop back to five.
 

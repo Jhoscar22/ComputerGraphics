@@ -22,4 +22,4 @@ Below are the 3 stages or scenes of the program:
 
 ## Preview
 
-![Preview](./images/preview.gif)
+![Preview](./images/preview.mp4)

@@ -24,6 +24,7 @@ Some of the tasks were built upon previous tasks, so they are not all in separat
 
 <div>
     <img width="40px" height="40px" src="https://ico.now.sh/opengl/5586A4"/>
+    <img width="40px" height="40px" src="https://skillicons.dev/icons?i=processing"/>
     <img width="40px" height="40px" src="https://skillicons.dev/icons?i=git"/>
     <img width="40px" height="40px" src="https://skillicons.dev/icons?i=vscode"/>
 </div>
